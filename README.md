@@ -1,7 +1,8 @@
 # Projetos_Assembly
 
 ## Repositório para estudo da linguagem Assembly.
-Projetos: 
+
+### Projetos: 
 + Saída básica com "Hallo Assembly" (Pasta: Hallo_Assembly)
 + Entrada básica de dados ( Pasta: Input_Assembly )
 
@@ -16,5 +17,5 @@ A pasta ( Basic_Files ) contém modelos de arquivos frequentemente utilizados ( 
 ### Modo de uso:
 + Clone o repositório com o comando *git clone https://github.com/GuilhermeSantos99/Projetos_Assembly*
 + Dentre as pastas, entre no projeto desejado.
-+ Na pasta, execute o comando *make* para compilar/linkeditar.
++ Na pasta, execute o comando *make* para compilar/linkeditar o código.
 + Execute o comando *./{nomeDoProjeto}* para executar o arquivo.
